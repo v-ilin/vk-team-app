@@ -1,0 +1,12 @@
+{
+    "name": "vk-team-app",
+    "script": "app.js",
+    "watch": true,
+    "ignore_watch" : [
+        "node_modules",
+        ".vscode",
+        ".idea",
+        ".git",
+        "README.md"
+    ]
+}
